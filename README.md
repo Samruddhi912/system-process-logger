@@ -29,6 +29,6 @@ A Python utility script to monitor and log system processes (PID, user, memory u
    ```bash
    pip install psutil schedule
 
-3.Run the script:
-  ```bash
-   python process_logger.py
+ 3.Run the script:
+   ```bash
+     python process_logger.py
