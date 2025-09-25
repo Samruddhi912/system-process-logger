@@ -31,7 +31,4 @@ A Python utility script to monitor and log system processes (PID, user, memory u
 
 3.Run the script:
    ```bash
-   python process_logger.py
-
-
-
+    python process_logger.py
